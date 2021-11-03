@@ -1,0 +1,3 @@
+prettytable
+boto3
+argparse
